@@ -1,4 +1,6 @@
-language: minimal
+language: rust
+rust:
+  - stable
 
 before_script:
   # Download and unzip the zola executable
