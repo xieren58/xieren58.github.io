@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://xieren58.github.io/sitemap.xml
