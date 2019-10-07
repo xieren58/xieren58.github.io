@@ -26,9 +26,9 @@ default_language = "zh-CN"
 # Put all your custom variables here
 
 nav = [
-    { type = "page", value = "archive" },
-    { type = "taxonomy", value = "tags" },
-    { type = "link", title = "github", url = "https://github.com/xieren58" }
+    { type = "page", value = "archive", title = "Archive" },
+    { type = "taxonomy", value = "tags", title = "Tags" },
+    { type = "link", title = "GitHub", url = "https://github.com/xieren58" }
 ]
 
 [extra.etteranc]
