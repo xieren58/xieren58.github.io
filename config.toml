@@ -30,3 +30,9 @@ nav = [
     { type = "taxonomy", value = "tags" },
     { type = "link", title = "github", url = "https://github.com/xieren58" }
 ]
+
+[extra.etteranc]
+repo = "xieren58/xieren58.github.io"
+issue_term = "pathname"
+label = "comment"
+theme = "github-light"
